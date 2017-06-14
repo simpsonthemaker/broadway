@@ -1,0 +1,43 @@
+* {
+  font-family: helvetica;
+  text-align: center;
+}
+
+.maintitle {
+  font-family: helvetica;
+  font-size: 70px;
+  font-weight: bold;
+  color: black;
+  background-image: url("file:./resources/images/the-flatiron-building.png");
+}
+
+.toplinks {
+  font-family: helvetica;
+  font-size: 18px;
+  color: black;
+
+.process {
+    font-family: helvetica;
+    font-size: 32px;
+    font-weight: bold;
+  }
+
+p {
+      font-family: helvetica;
+      font-size: 14px;
+}
+
+.designny {
+    font-family: helvetica;
+    font-size: 23px;
+    font-weight: bold;
+    color: black;
+    background-image: url("file:./resources/images/the-flatiron-building.png");
+  }
+
+.footer {
+      font-family: helvetica;
+      font-size: 11px;
+      background-color: dimgray;
+      horizontal-align: left;
+    }
